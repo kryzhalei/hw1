@@ -1,7 +1,7 @@
 from math import *
 character = input("Enter character: ")
 
-if(character=='a' or character=='A' or character=='b'or character=='B' or character=='i' or character=='I' or character=='o' or character=='O' or character=='u' or character=="U"):
+if(character=='a' or character=='A' or character=='e'or character=='E' or character=='i' or character=='I' or character=='o' or character=='O' or character=='u' or character=="U"):
     print(character, "is a vowel letter")
 else:
     print(character, "is a consonant letter")
